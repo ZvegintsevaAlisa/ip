@@ -1,16 +1,13 @@
-           * { margin: 0; padding: 0; background-color: #eee ; color: #676565}
-           p { padding: 10px; }
+ * { margin: 0; padding: 0; background-color: #eee ; color: #676565}
+ p { padding: 10px; }
 
-           .left { position: absolute; left: 0; top: 0; width: 20%; }
-           .right {  position: absolute; right: 0; top: 0; width: 80%; } 
+ .left { position: absolute; left: 0; top: 0; width: 20%; }
+.right {  position: absolute; right: 0; top: 0; width: 80%; } 
+.edu { position: absolute; left: 10; top: 110; }
+.skills {position: absolute; left: 10; top: 230; }
+.langs {position: absolute; left: 10; top: 360; }
 
-
-
-           .edu { position: absolute; left: 10; top: 110; }
-           .skills {position: absolute; left: 10; top: 230; }
-           .langs {position: absolute; left: 10; top: 360; }
-
-           li {
+li {
   list-style-type: circle;
 }
 
